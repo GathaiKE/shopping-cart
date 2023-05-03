@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "productName": "Mouse",
+      "productImg": "https://imgs.search.brave.com/ysqadkH_tvYB_BM2Ez1V_p7k37_zEqdfJUpHEiT0t0s/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9nYW1p/bmdseWZlLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNy8x/MS9ST0NDQVQtc2Nh/bGVkLmpwZw",
+      "productDescription": "\nROCCAT KONE AIMO MOUSE OUT NOW",
+      "productPrice": "500",
+      "id": 4
+    },
+    {
+      "productName": "Desktop",
+      "productImg": "https://imgs.search.brave.com/-kKJnrY_LSxVKjiJSsVwosfmCPpvgYQ4pkDg9dNt-Kc/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly93d3cu/Z2FtZXNsaWZlLmdy/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE2/LzA5L1JPQ0NBVF9T/a2x0X0Rlc2t0b3Bf/MDEtcmlnaHRfR1JZ/LUxhcmdlLmpwZw",
+      "productDescription": "\nROCCAT",
+      "productPrice": "10000",
+      "id": 5
+    },
+    {
+      "productName": "PS 5",
+      "productImg": "https://cdn.shopify.com/s/files/1/0655/8210/4831/products/Untitleddesign-87.png?v=1661176929&width=493",
+      "productDescription": "PS 5 gaming console",
+      "productPrice": "86,999",
+      "id": 6
+    },
+    {
+      "productName": "FIFA 23",
+      "productImg": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/63/411088/2.jpg?4282",
+      "productDescription": "FIFA 2023 LATEST VERSION",
+      "productPrice": "8,500",
+      "id": 7
+    }
+  ],
+  "cart":[
+    {
+      "productName": "Mouse",
+      "productImg": "https://imgs.search.brave.com/ysqadkH_tvYB_BM2Ez1V_p7k37_zEqdfJUpHEiT0t0s/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9nYW1p/bmdseWZlLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNy8x/MS9ST0NDQVQtc2Nh/bGVkLmpwZw",
+      "productDescription": "\nROCCAT KONE AIMO MOUSE OUT NOW",
+      "productPrice": "500",
+      "productId": 1
+    }
+  ]
+}
